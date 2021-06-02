@@ -1,0 +1,149 @@
+==Death messages==
+{0} is playerName.
+
+[GENERIC]
+	The corpse of a <color=orange>Class D</color> subject was found in <color=gray>[REDACTED]</color>. Cause of death is unknown.
+	{0} died.
+	{0} collapsed.
+	{0} perished.
+
+[BLEED]
+	The corpse of a <color=orange>Class D</color> subject was found in <color=gray>[REDACTED]</color>. Cause of death is related to <color=red>heavy blood loss</color>.
+	{0} bled to death.
+	{0} lost all his blood.
+	{0} was drained.
+
+[MTF]
+	<color=orange>Class D</color> subject; <color=red>terminated</color> by <color=blue>Nine-Tailed Fox</color>.
+	Subject {0}: terminated.
+	{0} was shot in the face.
+	{0} ate lead.
+
+[TESLA]
+	The corpse of a <color=orange>Class D</color> subject was found in <color=gray>[REDACTED]</color> near the <color=red>Tesla Gate</color>.
+	{0} got zapped.
+	{0} smells like chicken.
+	{0} got fried.
+	{0} didn't time it right.
+
+[GAS]
+	The corpse of a <color=orange>Class D</color> subject was found in <color=gray>[REDACTED]</color> near a gas leak. Cause of death is suspected to be <color=red>suffocation</color>.
+	{0} suffocated.
+	{0} was gassed.
+	{0} forgot to bring a gas mask.
+	{0} stopped breathing.
+
+[008]
+	<color=orange>Class D</color> subject found ingesting Dr. <color=gray>[REDACTED]</color> in sector <color=gray>[REDACTED]</color>. Subject was immediately <color=red>terminated</color> by <color=blue>Nine-Tailed Fox</color> and sent for autopsy. <color=red>SCP-008</color> infection was confirmed, after which the body was incinerated.
+	{0} succumbed to the plague.
+	{0} got infected.
+
+[012]
+	<color=orange>Class D</color> subject found in a <color=red>pool of blood</color> next to <color=red>SCP-012</color>. Subject seems to have <color=red>ripped open</color> his wrists and written three extra lines to the composition before dying of <color=red>blood loss</color>.
+	{0} attempted to finish the composition.
+	{0} succumbed to the melody.
+
+[035-1]
+	<color=orange>Class D</color> subject found inside SCP-035's containment chamber. Subject sustained <color=red>heavy blunt trauma</color>, presumably because of the <color=gray>[REDACTED]</color> in the chamber.
+	{0} got whipped.
+	{0} didn't meet the fun kind of tentacle.
+
+[049]
+	An active instance of <color=red>SCP-049-2</color> was discovered in <color=gray>[REDACTED]</color>. Terminated by <color=blue>Nine-Tailed Fox</color>, DNA testing confirmed the instance was a <color=orange>Class D</color> subject.
+	{0} discovered the cure to living.
+	{0} stopped resisting.
+	{0} was cured.
+	{0} did not have a medical license.
+	
+[049-2 / 008-1]
+	An active instance of <color=red>SCP-049-2</color> was discovered in <color=gray>[REDACTED]</color>. Terminated by <color=blue>Nine-Tailed Fox</color>, DNA testing confirmed the instance was a <color=orange>Class D</color> subject.
+	{0} got mauled.
+	{0} somehow died to a zombie, embarrassing.
+	{0} was cured, technically speaking.
+	
+[096]
+	A <color=red>large amount of blood</color> was found in [REDACTED]. DNA identified as <color=orange>Class D</color> subject, most likely <color=gray>[REDACTED]</color> by <color=red>SCP-096</color>.
+	{0} was caught staring.
+	{0} cried even harder.
+	{0} was reduced to atoms.
+	{0} is now but a stain.
+	
+[106]
+	A <color=orange>Class D</color> subject was found in <color=gray>[REDACTED]</color>. Body partially decomposed by what is assumed to be <color=red>SCP-106's "corrosion"</color> effect. Body disposed of via incineration.
+	{0} melted.
+	{0} was banished.
+	{0} was never found again.
+	{0} disappeared.
+	
+[173]
+	The corpse of a <color=orange>Class D</color> subject has been found in <color=gray>[REDACTED]</color>, autopsy confirms the subject died of a <color=red>fatal cervical fracture</color>. Assumed to be attacked by <color=red>SCP-173</color>.
+	{0} blinked at the wrong time.
+	{0} was not aware of his surroundings.
+	{0} visited an unlicensed chiropractor.
+	{0} looked away.
+	
+[178]
+	A <color=orange>Class D</color> subject was found dead in <color=gray>[REDACTED]</color> wearing <color=red>SCP-178</color>. Subject sustained <color=red>heavy blunt trauma</color>, presumed to be killed by the effects of <color=red>SCP-178</color>.
+	{0} got too immersed with the 3D.
+	{0} died, now in 3D!
+	
+[205]
+	The <color=red>SCP-205</color> cycle seems to have resumed its normal course after the anomalies observed during <color=gray>[REDACTED]</color>. The corpse of a <color=orange>Class D</color> subject was found inside the chamber, exhibiting signs of <color=red>blunt force trauma</color>. Presumably killed by <color=red>SCP-205</color>.
+	{0} blacked out.
+	{0} was afraid of the dark.
+	
+[427]
+	'Requesting support from <color=blue>MTF Nu-7</color>. We need more firepower to bring this <color=red>thing</color> down.'
+	{0} didn't look at the time.
+	{0} got mutated.
+	
+[860-2]
+	Several <color=red>chunks of human flesh</color> have been found in Sector-<color=gray>[REDACTED]</color>, along with <color=red>SCP-860</color>. Assumed to be killed by <color=red>SCP-860-2</color>. DNA testing confirmed the chunks belong to a <color=orange>Class D</color> subject.
+	{0} met the guardian of the woods.
+	{0} was lost in the woods.
+
+[895]
+	The corpse of a <color=orange>Class D</color> subject was found near <color=red>SCP-895's</color> containment chamber. Subject died of <color=red>cardiac arrest</color>. Further testing is required to determine whether <color=red>SCP-895's "Red Zone"</color> is increasing.
+	{0} got jumpscared.
+	{0} didn't look away.
+	
+[914]
+	A <color=orange>Class D</color> jumpsuit was found in <color=gray>[REDACTED]</color>. Subject belonging to the jumpsuit is nowhere to be found. Most likely related to <color=red>SCP-914</color>.
+	{0} withered away.
+	{0} was deleted.
+	{0} got zapped [battery]
+	{0} got high. [joint]
+	
+[939]
+	The <color=red>mangled</color> corpse of a <color=orange>Class D</color> subject was found in the Heavy Containment Tunnels, along with several <color=red>SCP-939</color> specimens. All specimens have been captured and recontained successfully, and a cleaning team has been dispatched.
+	{0} let the dogs out.
+	{0} was devoured whole.
+	{0} got torn apart.
+	{0} followed the voices.
+
+[970]
+	The corpse of a <color=orange>Class D</color> subject was found several layers deep inside <color=red>SCP-970</color>. Further testing will be required to further understand <color=red>SCP-970's destructive properties</color>.
+	{0} didn't exit the while loop. {0} didn't exit the while loop. {0} didn't exit...
+	{0} got stuck in a loop.
+
+[1025]
+	The corpse of a <color=orange>Class D</color> subject was found in <color=gray>[REDACTED]</color> holding <color=red>SCP-1025</color>. Further testing will be required to further understand <color=red>SCP-1025's anomalous properties</color>.
+	{0} died of cardiac arrest.
+	{0} didn't read between the lines.
+
+[1048-A]
+	The corpse of a <color=orange>Class D</color> subject was found in <color=gray>[REDACTED]</color>, <color=red>covered in ears</color>. Presumably killed by <color=red>SCP-1048-A</color>.
+	{0} is all ears.
+	{0} can now hear very well.
+	{0} got an ear full.
+
+[1162]
+	The <color=red>dismembered</color> corpse of a <color=orange>Class D</color> subject was found near <color=red>SCP-1162's</color> containment chamber. Presumably killed by <color=red>SCP-1162's</color> effects.
+	{0} didn't understand the term 'equivalent exchange'.
+	{0} lost an arm and a leg.
+	{0} didn't strike a bargain.
+
+[1499-1]
+	<color=red>An unindentified male</color> and a deceased <color=orange>Class D</color> subject were discovered in <color=gray>[REDACTED]</color> by the <color=blue>Nine-Tailed Fox</color>. The man was described as highly agitated and seemed to only speak Russian. He's been taken into temporary custody at <color=gray>[REDACTED]</color> while waiting for a translator to arrive.
+	{0} got ganked.
+	{0} angered the local population.

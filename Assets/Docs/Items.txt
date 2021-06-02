@@ -1,0 +1,233 @@
+Keycard [1, 2, 3, 4, 5, Omni] - Opens doors
+	An essential item for getting around the facility, used to gain access to other rooms.
+	Found/upgraded in SCP-914 on Fine or Very Fine
+	
+Gas Mask - wearable, protects against gas
+	A mask used to protect the wearer from inhaling toxic gases.
+	Found
+	
+Super Gas Mask - wearable, protects against gas, improves stamina
+	A mask used to protect the wearer from inhaling toxic gases, allowing the wearer to breathe even easier.
+	Upgraded in SCP-914 on Fine
+	
+Heavy Gas Mask - wearable, protects against gas, protects against SCP-012
+	A mask used to protect the wearer from inhaling toxic gases, imbued with the effects of SCP-148, being able to block or hinder extrasensory mind-affecting properties.
+	Upgraded in SCP-914 on Fine combined with SCP-148
+	
+First Aid Kit - heals the user
+	A collection of supplies and equipment used to give medical treatment. There is enough for one use.
+	Found
+	
+Small First Aid Kit - greatly heals the user
+	A collection of advanced supplies and equipment used to give medical treatment. There is enough for one use.
+	Upgraded in SCP-914 on Fine
+	
+Blue First Aid Kit - random effect: increased speed, followed by death; invert mouse; blurry vision; full heal; critical wound
+	A collection of supplies and equipment used to give medical treatment. Emits a odd, blue glow. There is enough for one use.
+	Upgraded in SCP-914 on 1:1
+
+Syringe - heals the user, grants adrenaline boost
+	A syringe filled with a serum of epinephrine, activating the adrenal glands within the body.
+	Found
+	
+Fine Syringe - heals the user, grants greater adrenaline boost, causes bleeding
+	A syringe filled with a serum of epinephrine, activating the adrenal glands at random within the body.
+	Upgraded in SCP-914 on Fine
+	
+Very Fine Syringe - random effect: increased speed, followed by death; quick heal, stamina regen; retching and then vomiting
+	A syringe filled with a serum of epinephrine, activating the adrenal glands at random within the body. Emits a odd, blue glow.
+	Upgraded in SCP-914 on Very Fine
+	
+Ballistic Vest - wearable, protects against some bullets
+	A lightweight, kevlar-woven vest, designed to absorb kinetic forces to protect the wearer. Will not protect the arms, legs and head.
+	Found
+	
+Heavy Ballistic Vest - wearable, protects against most bullets
+	A heavy, ceramic-plated vest, designed to absorb extreme kinetic forces to protect the wearer. Will not protect the head.
+	Upgraded in SCP-914 on Fine
+	
+S-Nav 300 - shows a minimap
+	A navigation device used to track where the user has been. Uses batteries.
+	Found
+	
+S-Nav 310 - shows a minimap with fully drawn map
+	A navigation device uploaded with the entire map of the facility. Uses batteries.
+	Upgraded in SCP-914 on Fine
+
+S-Nav Ultimate - shows a minimap with a danger circle and fully drawn map
+	A navigation device uploaded with the entire map of the facility. Detects nearby SCPs using sonar technology. Uses batteries.
+	Upgraded in SCP-914 on Very Fine
+	
+Hazmat Suit - wearable, protects against gas and SCP-008
+	A impermeable whole-body garment, completely protecting the wearer against hazardous materials.
+	Found
+	
+Heavy Hazmat Suit - wearable, protects against gas and SCP-008, SCP-012
+	A impermeable whole-body garment, completely protecting the wearer against hazardous materials. Imbued with the effects of SCP-148, being able to block or hinder extrasensory mind-affecting properties.
+	Upgraded in SCP-914 on Fine combined with SCP-148
+
+Mysterious Hazmat Suit - wearable, protects against gas and SCP-008, improves stamina
+	A impermeable whole-body garment, completely protecting the wearer against hazardous materials. Allows the wearer to breathe even easier.
+	Upgraded in SCP-914 on Fine
+	
+Radio - usable, allows radio communication
+	A two-way radio allowing for long-range communication, or listening to music. Uses batteries.
+	Found
+	
+Fine Radio - usable, allows radio communication
+	A two-way radio allowing for long-range communication, or listening to music.
+	Upgraded in SCP-914 on Fine
+	
+Very Fine Radio - usable, allows deciphering code for secret office
+	A two-way radio allowing for long-range communication, or listening to music. Randomly scrambles through channels, emitting loud tones.
+	Upgraded in SCP-914 on Very Fine
+	
+9V Battery - usable, refills battery gauge
+	A small 9V battery used to charge radios, S-Navs or night-vision goggles.
+	Found
+	
+18V Battery - usable, refills battery gauge
+	A medium-sized 18V battery used to charge radios.
+	Upgraded in SCP-914 on Fine
+	
+ReVision Eyedrops - slows blinking meter
+	A small bottle of eyedrops allowing the user to keep their eyes open for longer.
+	Found
+	
+RedVision Eyedrops - slows blinking meter even more, stops bleeding over time
+	A small bottle of eyedrops laced with blood coagulants allowing the user to keep their eyes open for longer. Also alleviates blood loss.
+	Upgraded in SCP-914 on Fine
+	
+NoVision Eyedrops - stops blinking meter for 30 seconds, slowly blinding the user
+	A small bottle of eyedrops laced with unknown stimulants allowing the user to keep their eyes open indefinetely.
+	Upgraded in SCP-914 on Very Fine
+	
+Severed Hand - like keycards but for one area
+	A severed, white hand. Might be usable to open DNA-scanner locked doors. Need a hand?
+	Found
+	
+Dark Severed Hand - like keycards but for one area
+	A severed, black hand. Might be usable to open DNA-scanner locked doors. Need a hand?
+	Upgraded in SCP-914 on Fine
+	
+Green Night Vision Goggles - wearable, see in the dark; killable by SCP-895, resists SCP-012
+	An optoelectronic device that allows images to be produced in levels of light approaching total darkness, allowing the wearer to see in the dark. Uses batteries.
+	Found
+	
+Red Night Vision Goggles - wearable, see in the dark; resists SCP-895 and SCP-012
+	An optoelectronic device that allows images to be produced in levels of light approaching total darkness, allowing the wearer to see in the dark.
+	Upgraded in SCP-914 on Fine
+	
+Blue Night Vision Goggles - wearable, see in the dark; sees SCPs through walls; barely resists SCP-895 and SCP-012
+	An optoelectronic device that allows images to be produced in levels of light approaching total darkness, allowing the wearer to see in the dark. Sees warm objects through walls. Uses batteries.
+	Upgraded in SCP-914 on Very Fine
+	
+Clipboard - usable, stores documents/keycards
+	A simple clipboard capable of keeping multiple documents in one place. Holds up to 10 documents at once.
+	Spawn
+	
+Fine Clipboard - usable, stores documents/keycards
+	A simple clipboard with a stronger paperclip capable of keeping even more documents in one place. Holds up to 15 documents at once.
+	Upgraded in SCP-914 on Fine
+
+Very Fine Clipboard - usable, stores documents/keycards
+	A simple clipboard with a even stronger paperclip capable of keeping a ludicrous amount of documents in one place. Holds up to 20 documents at once.
+	Upgraded in SCP-914 on Very Fine
+
+Wallet - usable, stores keycards/money
+	A simple wallet capable of keeping cards, paper money and coins in one place. Holds up to 10 items.
+	Found
+
+=== GAG ===
+Bulky Ballistic Vest - unusable, gag item
+	A complete EOD outfit, designed to absorb the harshest of kinetic forces to protect the wearer. Impossibly heavy.
+	Upgraded in SCP-914 on Very Fine
+
+Strange Battery - unusable, gag item
+	A large car battery. Somehow seems to be active.
+	Upgraded in SCP-914 on Very Fine
+
+Pill - gag item; does nothing
+	A small, white pill.
+	Upgraded in SCP-914 on Fine
+	
+Upgraded pill - gag item; turns user in 427-1
+	A small, white pill. Emits a odd, blue glow.
+	Upgraded in SCP-914 on Very Fine
+	
+Joint - gag item; kills player
+	A rolled cannabis cigarette. Not a good idea to smoke right now.
+	Upgraded in SCP-914 on Fine
+	
+Smelly Joint - gag item; kills player
+	A rolled cannabis cigarette, emitting a extreme cannabis smell. Not a good idea to smoke right now.
+	Upgraded in SCP-914 on Very Fine
+	
+Cigarette - gag item; makes player cough
+	A rolled tobacco cigarette. Not a good idea to smoke right now.
+	Upgraded in SCP-914 on 1:1
+	
+Strange Bottle - gag item; random effect: pocket dimension; full cure; heavy bleeding; nausea
+	A small glass bottle containing an unknown substance. Emits a odd, blue glow.
+	Upgraded in SCP-914 on Very Fine
+	
+MasterCard - gag item; usable for creating quarters
+	A credit card, rather useless in this facility - they only take cash.
+	Upgraded in SCP-914 on Very Fine
+	
+Playing Card - gag item
+	A joker, too bad you're not playing poker.
+	Upgraded in SCP-914 on Very Fine
+	
+Origami - gag item
+	A piece of paper folded into the shape of a crane. Looks nice.
+	Upgraded in SCP-914 on Fine/Very Fine
+	
+Quarter - gag item; usable for SCP-294
+	A quarter coin, worth approximately 25 cents.
+	Upgraded in SCP-914 on Coarse
+	
+SCP-420-J - gag item
+	A expertly rolled cannabis cigarette. Not a good idea to smoke right now, but you'd really like to...
+	Found
+	
+=== SCP ===
+SCP-148 - upgrade item
+	A metallic ingot made of an unknown compound.
+	Found
+
+SCP-178 - wearable, spawns multiple normally invisible SCP-178-1 around you
+	A pair of white stereoscopic glasses with a rectangular white cardboard frame and lenses of transparent blue and red plastic.
+	Found
+	
+SCP-294-1 - a cup of something
+	A cup of #.
+	Created in SCP-294
+
+SCP-427 - slow heal/cure, turns user in 427-1 over time
+	A small, spherical, ornately carved locket made of a polished silver material.
+	Upgraded in SCP-914 on Fine
+
+SCP-500-1 - full heal/cure
+	A red, swallowable pill.
+	Found
+	
+SCP-513 - spawns SCP-513-1 randomly on use, decreasing sanity meter
+	An unremarkable, rusty cowbell.
+	Found
+	
+SCP-714 - exhausts player, but protects against many SCPs
+	A green jade ring.
+	Found
+	
+SCP-860 - teleports player to SCP-860-1
+	A dark blue key of unremarkable shape. Somehow fits in any door lock.
+	Found
+	
+SCP-1025 - randomly inflicts a disease/status
+	"The Encyclopedia of Common Diseases" by Coltan Press.
+	Found
+	
+SCP-1499 - teleport to 'safe' area, 1499
+	A Soviet GP-5 gas mask.
+	Found
